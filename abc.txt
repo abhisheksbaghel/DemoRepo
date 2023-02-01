@@ -1,6 +1,10 @@
 abc i have changed it
+<<<<<<< HEAD
 lkksnlanlna
 a, lasnnd
 asskba
 aksbsasd
 111111111111
+changed in abhi branch
+changed in  main branch and updated in main branch creating conflict
+344444
